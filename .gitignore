@@ -3,3 +3,4 @@ media
 products
 __pycache__
 .commands
+static

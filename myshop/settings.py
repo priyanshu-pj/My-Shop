@@ -145,3 +145,8 @@ STRIPE_PUBLISHABLE_KEY  =   'pk_test_51MqSjWSDN07qEELsSVLLZKeXMOQuvVap3yBu3OayXt
 STRIPE_SECRET_KEY       =   'sk_test_51MqSjWSDN07qEELsywmGjua8qGJCqgS3mF27UnZZC5izkbCmjkzlbjdhI9KctdTR0YWAxJbbHUhjIkzf9Aj7e3ez00QOr4GQlw'
 STRIPE_API_VERSION      =   '2022-08-01'
 STRIPE_WEBHOOK_SECRET   =   'whsec_ecc447b84a1bbda8ccdd92eacf7e05f47a001ce3cc553e45b0188398c2311710'
+
+# redis settings
+REDIS_HOST  =   'localhost'
+REDIS_PORT  =   6379
+REDIS_DB    =   1
